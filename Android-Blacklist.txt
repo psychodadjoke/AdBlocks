@@ -1,0 +1,4 @@
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 fr.app.chat.global.xiaomi.net
+0.0.0.0 find.api.micloud.xiaomi.net
+0.0.0.0 data.mistat.intl.xiaomi.com
