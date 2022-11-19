@@ -23,3 +23,4 @@
 0.0.0.0 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 0.0.0.0 g.galleryapi.micloud.xiaomi.net
 0.0.0.0 privacy.api.intl.miui.com
+#maybe add further domains from https://forum.xda-developers.com/t/adaway-blocking-miui-from-calling-back-home.3516119/
