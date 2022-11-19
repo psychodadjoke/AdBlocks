@@ -1,4 +1,23 @@
-0.0.0.0 resolver.msg.global.xiaomi.net
-0.0.0.0 fr.app.chat.global.xiaomi.net
-0.0.0.0 find.api.micloud.xiaomi.net
-0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com # Ads and Tracking
+0.0.0.0 resolver.msg.global.xiaomi.net # Ads and Tracking
+0.0.0.0 fr.app.chat.global.xiaomi.net # Ads and Tracking
+0.0.0.0 find.api.micloud.xiaomi.net # Ads and Tracking
+0.0.0.0 api.zhuti.intl.xiaomi.com
+0.0.0.0 global.market.xiaomi.com
+0.0.0.0 i.mi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 au.ff.avast.sec.miui.com
+0.0.0.0 data.sec.intl.miui.com
+0.0.0.0 data.sec.miui.com
+0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 jupiter.intl.sys.miui.com
+0.0.0.0 update.avlyun.sec.miui.com
+0.0.0.0 update.intl.miui.com
+0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 cdn.cnbj1.fds.api.mi-img.com
+0.0.0.0 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+0.0.0.0 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
+0.0.0.0 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
+0.0.0.0 g.galleryapi.micloud.xiaomi.net
