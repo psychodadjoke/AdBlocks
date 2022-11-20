@@ -1,4 +1,4 @@
-# Last edit 20.11.22 16:24
+# Last edit 20.11.22 16:37
 
 # Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
 0.0.0.0 data.mistat.intl.xiaomi.com
