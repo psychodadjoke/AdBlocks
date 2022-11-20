@@ -1,8 +1,10 @@
-# Last edit 19.11.22 17:47
-0.0.0.0 data.mistat.intl.xiaomi.com # Ads and Tracking
-0.0.0.0 resolver.msg.global.xiaomi.net # Ads and Tracking
-0.0.0.0 fr.app.chat.global.xiaomi.net # Ads and Tracking
-0.0.0.0 find.api.micloud.xiaomi.net # Ads and Tracking
+# Last edit 20.11.22 16:24
+
+# Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 fr.app.chat.global.xiaomi.net
+0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 api.zhuti.intl.xiaomi.com
 0.0.0.0 global.market.xiaomi.com
 0.0.0.0 i.mi.com
@@ -23,4 +25,10 @@
 0.0.0.0 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 0.0.0.0 g.galleryapi.micloud.xiaomi.net
 0.0.0.0 privacy.api.intl.miui.com
+0.0.0.0 xtrapath1.izatcloud.net
+0.0.0.0 xtrapath2.izatcloud.net
+0.0.0.0 xtrapath3.izatcloud.net
+0.0.0.0 findapi.micloud.xiaomi.net
+0.0.0.0 qcc.qualcomm.com
+
 #maybe add further domains from https://forum.xda-developers.com/t/adaway-blocking-miui-from-calling-back-home.3516119/
