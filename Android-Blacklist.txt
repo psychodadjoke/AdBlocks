@@ -1,4 +1,4 @@
-# Last edit 20.11.22 16:37
+# Last edit 20.11.22 20:04
 
 # Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
 0.0.0.0 data.mistat.intl.xiaomi.com
@@ -30,6 +30,7 @@
 0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 findapi.micloud.xiaomi.net
 0.0.0.0 qcc.qualcomm.com
+0.0.0.0 de.api.io.mi.com
 
 #maybe add further domains from https://forum.xda-developers.com/t/adaway-blocking-miui-from-calling-back-home.3516119/
 
