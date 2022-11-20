@@ -32,3 +32,6 @@
 0.0.0.0 qcc.qualcomm.com
 
 #maybe add further domains from https://forum.xda-developers.com/t/adaway-blocking-miui-from-calling-back-home.3516119/
+
+# Google Tracking:
+0.0.0.0 firebase-settings.crashlytics.com
