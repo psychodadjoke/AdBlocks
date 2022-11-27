@@ -1,4 +1,4 @@
-# Last edit 20.11.22 20:04
+# Last edit 27.11.22 17:30
 
 # Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
 0.0.0.0 data.mistat.intl.xiaomi.com
@@ -36,3 +36,23 @@
 
 # Google Tracking:
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 stun.l.google.com
+0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 safebrowsing.googleapis.com
+
+# Amazon Tracking:
+0.0.0.0 msh.amazon.co.uk
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 fls-eu.amazon.de
+0.0.0.0 aax-eu.amazon.de
+
+# Whatsapp/Facebook Tracking:
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
+
+# Other Trackers:
+0.0.0.0 app.usercentrics.eu
+0.0.0.0 graphql.usercentrics.eu
+0.0.0.0 in.appcenter.ms
