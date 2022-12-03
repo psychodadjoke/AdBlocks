@@ -56,3 +56,5 @@
 0.0.0.0 app.usercentrics.eu
 0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 in.appcenter.ms
+0.0.0.0 upload.ncmq.messserver.de
+0.0.0.0 ncmq2109.messserver.de
