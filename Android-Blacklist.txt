@@ -1,4 +1,4 @@
-# Last edit 18.12.22 18:15
+# Last edit 18.12.22 18:27
 
 # Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
 0.0.0.0 data.mistat.intl.xiaomi.com
@@ -59,3 +59,13 @@
 0.0.0.0 in.appcenter.ms
 0.0.0.0 upload.ncmq.messserver.de
 0.0.0.0 ncmq2109.messserver.de
+
+# Some Stuff from my Phones Blacklist
+0.0.0.0 backup.tactilews.com
+0.0.0.0 tactile-ads.tactilews.com
+0.0.0.0 region1.app-measurement.com
+0.0.0.0 ads.vungle.com
+0.0.0.0 new.ads.vungle.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 api.onesignal.com
+0.0.0.0 www.facebook.com
