@@ -1,7 +1,6 @@
-# Last edit 23.03.23 22:28
+# Last edit 07.04.23 13:00
 
 # Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
-0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 resolver.msg.global.xiaomi.net
 0.0.0.0 fr.app.chat.global.xiaomi.net
 0.0.0.0 find.api.micloud.xiaomi.net
@@ -32,7 +31,6 @@
 0.0.0.0 findapi.micloud.xiaomi.net
 0.0.0.0 qcc.qualcomm.com
 0.0.0.0 de.api.io.mi.com
-0.0.0.0 cdn.cnbj1.fds.api.mi-img.com
 0.0.0.0 h6.market.xiaomi.com
 0.0.0.0 connect.intl.rom.miui.com
 0.0.0.0 idm.iot.mi.com
@@ -65,7 +63,6 @@
 0.0.0.0 ncmq2109.messserver.de
 
 # Some Stuff from my Phones Blacklist
-0.0.0.0 backup.tactilews.com
 0.0.0.0 tactile-ads.tactilews.com
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 ads.vungle.com
