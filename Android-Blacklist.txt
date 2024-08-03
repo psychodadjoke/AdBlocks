@@ -1,4 +1,4 @@
-# Last edit 07.04.23 13:00
+# Last edit 03.08.24 19:35
 
 # Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
 0.0.0.0 resolver.msg.global.xiaomi.net
@@ -39,34 +39,61 @@
 
 #maybe add further domains from https://forum.xda-developers.com/t/adaway-blocking-miui-from-calling-back-home.3516119/
 
-# Google Tracking (checked against AdAway standard lists 18.12.2022):
+# Google Tracking
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 android-context-data.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 myphonenumbers-pa.googleapis.com
 
-# Amazon Tracking (checked against AdAway standard lists 18.12.2022):
+# Amazon Tracking
 0.0.0.0 msh.amazon.co.uk
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 fls-eu.amazon.de
 0.0.0.0 aax-eu.amazon.de
 
-# Whatsapp/Facebook (checked against AdAway standard lists 18.12.2022):
+# Whatsapp/Facebook
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 cdn.fbsbx.com
 
-# Other Trackers (checked against AdAway standard lists 18.12.2022):
+# Other Trackers
 0.0.0.0 app.usercentrics.eu
 0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 in.appcenter.ms
 0.0.0.0 upload.ncmq.messserver.de
 0.0.0.0 ncmq2109.messserver.de
+0.0.0.0 evt.mxplay.com
+0.0.0.0 firefox.settings.services.mozilla.com
 
 # Some Stuff from my Phones Blacklist
 0.0.0.0 tactile-ads.tactilews.com
+0.0.0.0 analytics-staging.tactilews.com
+0.0.0.0 backup.tactilews.com
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 ads.vungle.com
 0.0.0.0 new.ads.vungle.com
 0.0.0.0 adx.ads.vungle.com
 0.0.0.0 api.onesignal.com
 0.0.0.0 www.facebook.com
+
+# Moloco
+0.0.0.0 noti-us.adsmoloco.com
+0.0.0.0 sdkapi.dsp-api.moloco.com
+
+# Unity3D
+0.0.0.0 o-sdk.mediation.unity3d.com
+0.0.0.0 gw.mediation.unity3d.com
+0.0.0.0 ae.iads.unity3d.com
+0.0.0.0 cdn.iads.unity3d.com
+0.0.0.0 gw-rv.iads.unity3d.com
+0.0.0.0 i-sdk.mediation.unity3d.com
+0.0.0.0 operate-sdk-telemetry.unity3d.com
+
+# EMB-API
+0.0.0.0 a-fkka4.config.emb-api.com
+0.0.0.0 a-fxzdd.config.emb-api.com
