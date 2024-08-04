@@ -48,6 +48,7 @@
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 myphonenumbers-pa.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
 
 # Amazon Tracking
 0.0.0.0 msh.amazon.co.uk
@@ -61,7 +62,7 @@
 0.0.0.0 graph.instagram.com
 0.0.0.0 cdn.fbsbx.com
 
-# Other Trackers
+# Other Trackers and useless Servers
 0.0.0.0 app.usercentrics.eu
 0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 in.appcenter.ms
@@ -69,17 +70,23 @@
 0.0.0.0 ncmq2109.messserver.de
 0.0.0.0 evt.mxplay.com
 0.0.0.0 firefox.settings.services.mozilla.com
+0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 logs.browser-intake-datadoghq.eu
+0.0.0.0 shoopde.engine.adglare.net
 
 # Some Stuff from my Phones Blacklist
 0.0.0.0 tactile-ads.tactilews.com
 0.0.0.0 analytics-staging.tactilews.com
 0.0.0.0 backup.tactilews.com
 0.0.0.0 region1.app-measurement.com
-0.0.0.0 ads.vungle.com
-0.0.0.0 new.ads.vungle.com
-0.0.0.0 adx.ads.vungle.com
 0.0.0.0 api.onesignal.com
 0.0.0.0 www.facebook.com
+
+# Vungle
+0.0.0.0 config.ads.vungle.com
+0.0.0.0 new.ads.vungle.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 ads.vungle.com
 
 # Moloco
 0.0.0.0 noti-us.adsmoloco.com
@@ -97,3 +104,9 @@
 # EMB-API
 0.0.0.0 a-fkka4.config.emb-api.com
 0.0.0.0 a-fxzdd.config.emb-api.com
+0.0.0.0 a-fkka4.data.emb-api.com
+0.0.0.0 a-fxzdd.data.emb-api.com
+
+# Appsflyer
+0.0.0.0 tgdyal-inapps.appsflyersdk.com
+0.0.0.0 tgdyal-conversions.appsflyersdk.com
