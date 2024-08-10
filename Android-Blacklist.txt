@@ -1,4 +1,4 @@
-# Last edit 03.08.24 19:35
+# Last edit 10.08.24 19:55
 
 # Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
 0.0.0.0 resolver.msg.global.xiaomi.net
@@ -36,6 +36,7 @@
 0.0.0.0 idm.iot.mi.com
 0.0.0.0 de-idm.api.io.mi.com
 0.0.0.0 cdn.awsde0-fusion.fds.api.mi-img.com
+0.0.0.0 cse.avlyun.sec.miui.com
 
 #maybe add further domains from https://forum.xda-developers.com/t/adaway-blocking-miui-from-calling-back-home.3516119/
 
@@ -49,12 +50,16 @@
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacons6.gvt3.com
 
 # Amazon Tracking
 0.0.0.0 msh.amazon.co.uk
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 fls-eu.amazon.de
 0.0.0.0 aax-eu.amazon.de
+0.0.0.0 d1nruqhae353qc.cloudfront.net
+0.0.0.0 d2h8zr0m6mus4x.cloudfront.net
 
 # Whatsapp/Facebook
 0.0.0.0 dit.whatsapp.net
@@ -69,10 +74,15 @@
 0.0.0.0 upload.ncmq.messserver.de
 0.0.0.0 ncmq2109.messserver.de
 0.0.0.0 evt.mxplay.com
-0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 logs.browser-intake-datadoghq.eu
 0.0.0.0 shoopde.engine.adglare.net
+0.0.0.0 o1069899.ingest.sentry.io
+0.0.0.0 ssl.kaptcha.com
+
+# Mozilla Firefox
+0.0.0.0 firefox.settings.services.mozilla.com
+0.0.0.0 contile.services.mozilla.com
 
 # Some Stuff from my Phones Blacklist
 0.0.0.0 tactile-ads.tactilews.com
@@ -81,6 +91,8 @@
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 api.onesignal.com
 0.0.0.0 www.facebook.com
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 completion.amazon.com
 
 # Vungle
 0.0.0.0 config.ads.vungle.com
