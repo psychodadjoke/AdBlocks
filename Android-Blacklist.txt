@@ -1,4 +1,4 @@
-# Last edit 10.08.24 19:55
+# Last edit 18.08.24 19:50
 
 # Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
 0.0.0.0 resolver.msg.global.xiaomi.net
@@ -79,6 +79,13 @@
 0.0.0.0 shoopde.engine.adglare.net
 0.0.0.0 o1069899.ingest.sentry.io
 0.0.0.0 ssl.kaptcha.com
+0.0.0.0 adac.containers.piwik.pro
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 config.ioam.de
+0.0.0.0 data.kameleoon.io
+0.0.0.0 uku18p2r38.kameleoon.eu
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 www.facebook.de
 
 # Mozilla Firefox
 0.0.0.0 firefox.settings.services.mozilla.com
