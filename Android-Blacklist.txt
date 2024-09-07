@@ -1,4 +1,4 @@
-# Last edit 18.08.24 19:50
+# Last edit 07.09.24 22:30
 
 # Xiaomi/Redmi/MIUI/Qualcomm Tracking and Ads:
 0.0.0.0 resolver.msg.global.xiaomi.net
@@ -6,8 +6,10 @@
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 api.zhuti.intl.xiaomi.com
 0.0.0.0 global.market.xiaomi.com
+0.0.0.0 eu.global.market.xiaomi.com
 0.0.0.0 i.mi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 weatherapi.intl.xiaomi.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 au.ff.avast.sec.miui.com
 0.0.0.0 data.sec.intl.miui.com
