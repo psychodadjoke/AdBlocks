@@ -1,0 +1,46 @@
+# Last edit 01.11.24 11:50
+
+# Blocks some MS stuff i don't want or use
+
+# Cortana related (and a nuisance)
+||bing.com^
+edgeassetservice.azureedge.net
+
+# Device Authentication
+login.live.com
+
+# Diagnostics
+||events.data.microsoft.com^
+
+# Maps
+weathermapdata.blob.core.windows.net
+
+# Edge
+edge.microsoft.com
+windows.msn.com
+msedge.api.cdp.microsoft.com
+
+# Store
+storeedgefd.dsx.mp.microsoft.com
+||displaycatalog.mp.microsoft.com^
+
+# NCSI
+||msftconnecttest.com^
+
+# OneDrive
+g.live.com
+oneclient.sfx.ms
+
+# App Settings
+settings-win.data.microsoft.com
+
+# Skype
+config.edge.skype.com
+
+# Spotlight
+arc.msn.com
+||api.iris.microsoft.com^
+assets.msn.com
+g.msn.com
+ntp.msn.com
+www.msn.com
