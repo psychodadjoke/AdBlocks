@@ -59,4 +59,3 @@ go.microsoft.com
 www.msn.com
 in.appcenter.ms
 login.microsoftonline.com
-||tlu.dl.delivery.mp.microsoft.com^
