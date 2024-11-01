@@ -21,11 +21,12 @@ windows.msn.com
 msedge.api.cdp.microsoft.com
 
 # Store
-storeedgefd.dsx.mp.microsoft.com
 ||displaycatalog.mp.microsoft.com^
+||.dsx.mp.microsoft.com^
 
 # NCSI
 ||msftconnecttest.com^
+||msftncsi.com^
 
 # OneDrive
 g.live.com
@@ -43,4 +44,19 @@ arc.msn.com
 assets.msn.com
 g.msn.com
 ntp.msn.com
+
+# Defender
+checkappexec.microsoft.com
+
+# Office
+odc.officeapps.live.com
+officeclient.microsoft.com
+
+# Other Microsoft Stuff
+client.wns.windows.com
+cxcs.microsoft.net
+go.microsoft.com
 www.msn.com
+in.appcenter.ms
+login.microsoftonline.com
+||tlu.dl.delivery.mp.microsoft.com^
