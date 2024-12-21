@@ -55,7 +55,6 @@ officeclient.microsoft.com
 # Other Microsoft Stuff
 client.wns.windows.com
 cxcs.microsoft.net
-go.microsoft.com
 www.msn.com
 in.appcenter.ms
 login.microsoftonline.com
