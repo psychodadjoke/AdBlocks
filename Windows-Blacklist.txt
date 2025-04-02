@@ -1,4 +1,4 @@
-# Last edit 01.11.24 11:50
+# Last edit 02.04.2025 20:50
 
 # Blocks some MS stuff i don't want or use
 
@@ -25,7 +25,7 @@ msedge.api.cdp.microsoft.com
 ||.dsx.mp.microsoft.com^
 
 # NCSI
-||msftconnecttest.com^
+#||msftconnecttest.com^
 ||msftncsi.com^
 
 # OneDrive
